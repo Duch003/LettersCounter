@@ -1,0 +1,11 @@
+C:\Users\Duch003\source\repos\LettersCounter\LettersCounter\bin\Debug\LettersCounter.exe.config
+C:\Users\Duch003\source\repos\LettersCounter\LettersCounter\bin\Debug\LettersCounter.exe
+C:\Users\Duch003\source\repos\LettersCounter\LettersCounter\bin\Debug\LettersCounter.pdb
+C:\Users\Duch003\source\repos\LettersCounter\LettersCounter\obj\Debug\LettersCounter.csprojAssemblyReference.cache
+C:\Users\Duch003\source\repos\LettersCounter\LettersCounter\obj\Debug\LettersCounter.csproj.CoreCompileInputs.cache
+C:\Users\Duch003\source\repos\LettersCounter\LettersCounter\obj\Debug\LettersCounter.exe
+C:\Users\Duch003\source\repos\LettersCounter\LettersCounter\obj\Debug\LettersCounter.pdb
+C:\Users\Duch003\source\repos\LettersCounter\LettersCounter\bin\Debug\HtmlAgilityPack.dll
+C:\Users\Duch003\source\repos\LettersCounter\LettersCounter\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\Duch003\source\repos\LettersCounter\LettersCounter\bin\Debug\HtmlAgilityPack.xml
+C:\Users\Duch003\source\repos\LettersCounter\LettersCounter\obj\Debug\LettersCounter.csproj.CopyComplete
