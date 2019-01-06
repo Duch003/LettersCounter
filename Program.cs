@@ -22,7 +22,7 @@ namespace LettersCounter
                 ShowResults(arcticlesHeaders);
                 CreateStoreDocuments();
                 SaveData(arcticlesHeaders);
-                Thread.Sleep(1000 * 60 * 15);
+                Thread.Sleep(1000 * 60 * 10);
             }
         }
 
