@@ -41,7 +41,7 @@ namespace LettersCounter
         }
 
         private static void SaveData(List<string> headers)
-        {
+        { 
             for (int i = 4; i >= 1; i--)
             {
                 var fs = File.OpenWrite(i + ".txt");
